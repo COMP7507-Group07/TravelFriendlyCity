@@ -1,11 +1,8 @@
 # Introduction
-This is the web application using for Visual7507 demo pre. I just put the UI framework into the file, in case you don't have node.js and npm. The code will not be updated, so if there is any change in UI framework source code, you can use:
-
-    npm i layui
+This is the web application using for Visual7507 in 2023 group 7 demo pre. We just put the UI framework into the file, in case you don't have node.js and npm. There is no other tableau file because we published our work into tableau public and linked them with URLs.
 
 # Usage
-Using vscode extension Go-live is ok. Just make sure you are under the top dictionary tableau_web.
+Using vscode extension Go-live is ok. Just make sure you are under the top dictionary tableau_web, and go to URL:
 
-# Some other words:(
-If you see nothing in web pages, this is probably because our result have expired in tableau public:(
-I don't know how long it will presist. So good luck!
+    localhost:5500
+

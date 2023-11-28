@@ -32,7 +32,7 @@ function jumpRetail_detailed(){
 
 function jumpRetail_total(){
     // tableau_view.src = "https://prod-uk-a.online.tableau.com/t/apysdh/views/Project_final_wyl_zh/retails"
-    tableau_view.src = "https://public.tableau.com/views/Project_final_web_version/retails?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
+    tableau_view.src = "https://public.tableau.com/views/Project_final_web_version_17011507581470/retails?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link"
 }
 
 function jumpConclusion(){
